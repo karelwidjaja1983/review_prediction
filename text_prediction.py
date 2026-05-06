@@ -5,7 +5,7 @@ import plotly.express as px
 
 model = joblib.load('model.pkl')
 
-st.title('Sentiment Prediction')
+st.title('Sentiment Prediction Tugas Streamlit')
 
 col1, col2 = st.columns(2)
 
